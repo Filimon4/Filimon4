@@ -40,8 +40,8 @@ Hello! I'm programmer from Russia
   <h1>
     📊 My stats 📊
   </h1>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tokyonight&theme=vue" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tokyonight&theme=vue"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tokyonight&theme=vue"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tokyonight&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tokyonight&theme=tokyonight"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tokyonight&theme=tokyonight"/>
 </div>
 
