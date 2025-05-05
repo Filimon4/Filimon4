@@ -1,10 +1,12 @@
 <h4>🛠 Languages and Tools</h4>
+Hello! I'm programmer from Russia
+
 <div>
   <!-- Backend & Language -->
   <h3>Backend & Language</h3>
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,deno,electron,typescript,javascript,graphql,grafana,prometheus,py,cpp,lua" />
+      <img src="https://skillicons.dev/icons?i=nodejs,deno,electron,typescript,javascript,sequelize,prisma,graphql,grafana,prometheus,py,cpp,lua" />
     </a>
   </p>
 
@@ -13,14 +15,6 @@
   <p align="left">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=postgres,redis" />
-    </a>
-  </p>
-
-  <!-- ORMs -->
-  <h3>ORMs</h3>
-  <p align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=sequelize,prisma" />
     </a>
   </p>
 
