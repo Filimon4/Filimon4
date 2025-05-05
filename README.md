@@ -2,7 +2,7 @@
 <div>
   <!-- Backend & Language -->
   <h3>Backend & Language</h3>
-  <p align="center">
+  <p align="left">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=nodejs,deno,electron,typescript,javascript,graphql,grafana,prometheus,py,cpp,lua" />
     </a>
@@ -10,7 +10,7 @@
 
   <!-- Databases -->
   <h3>Databases</h3>
-  <p align="center">
+  <p align="left">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=postgres,redis" />
     </a>
@@ -18,7 +18,7 @@
 
   <!-- ORMs -->
   <h3>ORMs</h3>
-  <p align="center">
+  <p align="left">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=sequelize,prisma" />
     </a>
@@ -26,7 +26,7 @@
 
   <!-- Front-end -->
   <h3>Front-end</h3>
-  <p align="center">
+  <p align="left">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,sass,tailwind" />
     </a>
