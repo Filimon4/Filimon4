@@ -40,8 +40,8 @@ Hello! I'm programmer from Russia
   <h1>
     📊 My stats 📊
   </h1>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=filimon4&theme=date_night" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=filimon4&theme=date_night"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=filimon4&theme=date_night"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=filimon4&theme=vue" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=filimon4&theme=vue"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=filimon4&theme=vue"/>
 </div>
 
