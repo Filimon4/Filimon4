@@ -34,3 +34,5 @@ Hello! I'm programmer from Russia
     </a>
   </p>
 </div>
+<h4>Stats</h4>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
