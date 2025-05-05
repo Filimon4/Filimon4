@@ -1,6 +1,6 @@
-<h4>🛠 Languages and Tools</h4>
+<h4>Info</h4>
 Hello! I'm programmer from Russia
-
+<h4>🛠 Languages and Tools</h4>
 <div>
   <!-- Backend & Language -->
   <h3>Backend & Language</h3>
