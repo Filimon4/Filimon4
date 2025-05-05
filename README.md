@@ -34,7 +34,7 @@
 
   <!-- Tools -->
   <h3>Tools</h3>
-  <p align="center">
+  <p align="left">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,webpack,vite,rollupjs,linux" />
     </a>
