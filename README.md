@@ -1,5 +1,5 @@
 <h4>Info</h4>
-Hello! I'm programmer from Russia
+Hello!
 <h4>🛠 Languages and Tools</h4>
 <div>
   <!-- Backend & Language -->
